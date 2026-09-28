@@ -24,8 +24,7 @@ Person
 
 🎥 Video Explanation
 ▶️ Watch the Complete Project Explanation
-
-📌 Video: [YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1tjpvy7VM38SruJe3m_eNYGUFhVglb55G/view?usp=drivesdk)
+(https://drive.google.com/file/d/1tjpvy7VM38SruJe3m_eNYGUFhVglb55G/view?usp=drivesdk)
 
 The video explains:
 
